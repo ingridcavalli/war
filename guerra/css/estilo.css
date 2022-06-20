@@ -1,37 +1,49 @@
 html{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
-    background-color: rgb(255, 229, 172);
+    background-color: rgb(255, 235, 123);
 
 }
 
 body {
-    text-align:center;
+    text-align:left;
     font-size: 15px;
 
 }
 
 .container{
-    font-size: 25px;
+    font-size: 15px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(166, 248, 155);
     margin: center;
 }
 
 #cabeçalho{
     font-size: 30px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(35, 104, 25);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: center;
+    text-align: center;
 }
 
 p{ 
-    font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 td{
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: azure;
+    background-color: rgb(255, 232, 101);
+    text-align:left;
+}
+
+tr{
+    font-size: 20,5px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(255, 246, 166);
+    text-align: center;
+}
+
+ol{
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
