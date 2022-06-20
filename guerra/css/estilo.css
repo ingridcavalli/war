@@ -1,0 +1,27 @@
+html{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    background-color: rgb(255, 229, 172);
+
+}
+
+body {
+    text-align:center;
+    font-size: 15px;
+
+}
+
+.container{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(166, 248, 155);
+    margin: center;
+}
+
+#cabeçalho{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(35, 104, 25);
+    margin: center;
+}
+
